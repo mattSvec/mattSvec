@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MxeTdidjd0MzFlMTFnenN2eXMybGl2cmsxeXU0cjRnbTE4OW9qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3MxeTdidjd0MzFlMTFnenN2eXMybGl2cmsxeXU0cjRnbTE4OW9qYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="150"/>
 </div>
 <h1 align="center">Hi 👋, I'm Matouš Švec</h1>
 <h3 align="center">a backend Java junior</h3>
