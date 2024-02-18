@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-<h1 align="center">String name = "Matouš Švec"</h1>
-<h3 align="center">String levelOfProgramming = "junior"</h3>
-<h3 align="center">String workSpecialization = "backend"</h3>
+<h1 align="center">String name = "Matouš Švec";</h1>
+<h3 align="center">String levelOfProgramming = "junior";</h3>
+<h3 align="center">String workSpecialization = "backend";</h3>
 </div>
 
 
